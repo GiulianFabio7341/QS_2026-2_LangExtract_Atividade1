@@ -28,8 +28,6 @@ A apresentação e demonstração da equipe está disponível no link abaixo:
 | Paulo Henrique dos Santos Reis | 202100115524 | 6 — Variabilidade e não determinismo |
 | Paulo Henrique Carvalho de Andrade | 202200060090 | 7 — Diagnóstico e plano de melhoria |
 
-> 📌 **Detalhes completos no relatório técnico (PDF)** disponível em [`/relatorio`](./relatorio).
-
 ---
 
 ## 📖 Sobre o Projeto Avaliado
