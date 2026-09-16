@@ -65,4 +65,4 @@ Os resultados demonstram que o LangExtract é uma ferramenta promissora para ext
 
 ## 5. Evidências
 
-As capturas de tela da execução dos 12 testes estão disponíveis na pasta [`/evidencias`](./evidencias/testes).
+As capturas de tela da execução dos 12 testes estão disponíveis na pasta [`/evidencias`](../evidencias/testes).
