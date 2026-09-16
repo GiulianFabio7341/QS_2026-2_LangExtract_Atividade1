@@ -12,6 +12,28 @@ Para avaliar a qualidade do LangExtract na prática, foram elaborados **12 casos
 
 A execução foi realizada via Python, utilizando o modelo local **`gemma2:2b`** (via Ollama) e formatação de saída em JSON.
 
+
+## Dashboard de Execução dos Testes
+
+| Métrica | Valor | Percentual |
+| :--- | :---: | :---: |
+| **Total de Testes Planejados** | **12** | 100% |
+| **Aprovados** | **9** | 75,0% |
+| **Parciais** | **1** | 8,3% |
+| **Reprovados** | **2** | 16,7% |
+
+### Principais Problemas Encontrados
+- **Falta de contexto:** A ferramenta força extrações fora do domínio (CT-04).
+- **Falha de privacidade:** Não bloqueia extração de dados sensíveis (CT-05).
+- **Inferência sem fonte:** Cria atributos não presentes no texto (CT-02).
+
+### Pontos Positivos
+- Excelente rastreabilidade (CT-01, CT-06, CT-10).
+- Anti-alucinação robusta quando a fonte não existe (CT-08, CT-09).
+- Tratamento controlado de erros de infraestrutura (CT-12).
+
+
+
 ### Critérios de Avaliação
 
 | Status | Significado |
