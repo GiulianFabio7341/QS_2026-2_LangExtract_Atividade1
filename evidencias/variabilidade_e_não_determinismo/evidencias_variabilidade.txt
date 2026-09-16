@@ -1,0 +1,3162 @@
+
+[Prompt 1] Repetição: 1 | Data/Hora: 2026-09-15 05:07:53 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia os nomes de todas as pessoas (personagens) mencionadas no texto e adicione o atributo 'papel' indicando se é jogador, técnico, executivo ou cônjuge.
+Total de Entidades Encontradas: 70
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Pokey Reese",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul DePodesta",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Agente de Hatteberg",
+        "atributos": {
+            "papel": "agente"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Bitsy",
+        "atributos": {
+            "papel": "cônjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Bitsy",
+        "atributos": {
+            "papel": "conjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "Sra. Scott Hatteberg",
+        "atributos": {
+            "papel": "conjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "Bitsy",
+        "atributos": {
+            "papel": "conjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Ron Washington",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jermaine Dye",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "David Justice",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeremy Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Rodriguez",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Dye",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Frankie Menechino",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Eric Hiljus",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Tam",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeremy Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "John Mabry",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Ele",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Bob Watson",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Rafael Palmeiro",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Mark Mulder",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Barry Zito",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Cirillo",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Bagwell",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatt",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul DePodesta",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "papel": "treinador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 1] Repetição: 2 | Data/Hora: 2026-09-15 05:16:08 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia os nomes de todas as pessoas (personagens) mencionadas no texto e adicione o atributo 'papel' indicando se é jogador, técnico, executivo ou cônjuge.
+Total de Entidades Encontradas: 71
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Pokey Reese",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul DePodesta",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Agente de Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Bitsy",
+        "atributos": {
+            "papel": "cônjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Bitsy",
+        "atributos": {
+            "papel": "conjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "Bitsy",
+        "atributos": {
+            "papel": "conjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "Técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jermaine Dye",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "David Justice",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeremy Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Alex",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Rodriguez",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Dye",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Frankie Menechino",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Eric Hiljus",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Tam",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeremy Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "John Mabry",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Bob Watson",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Rafael Palmeiro",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Mark Mulder",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Barry Zito",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Cirillo",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Bagwell",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hetteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul DePodesta",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 1] Repetição: 3 | Data/Hora: 2026-09-15 05:22:45 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia os nomes de todas as pessoas (personagens) mencionadas no texto e adicione o atributo 'papel' indicando se é jogador, técnico, executivo ou cônjuge.
+Total de Entidades Encontradas: 70
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Pokey Reese",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul DePodesta",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Agente de Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Bitsy",
+        "atributos": {
+            "papel": "cônjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Bitsy",
+        "atributos": {
+            "papel": "cônjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "sra. Scott Hatteberg",
+        "atributos": {
+            "papel": "cônjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "Bitsy",
+        "atributos": {
+            "papel": "conjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "conjuge"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jermaine Dye",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "David Justice",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeremy Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Alex",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Rodriguez",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Dye",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Frankie Menechino",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Eric Hiljus",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Tam",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeremy Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "John Mabry",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Bob Watson",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Rafael Palmeiro",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Mark Mulder",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Barry Zito",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Cirillo",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Bagwell",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hattberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hattebergs",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul DePodesta",
+        "atributos": {
+            "papel": "executivo"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "papel": "técnico"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "papel": "jogador"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "papel": "jogador"
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 2] Repetição: 1 | Data/Hora: 2026-09-15 05:28:42 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia as menções a Scott Hatteberg e adicione um atributo 'autoavaliacao_ou_status' resumindo como ele se via ou como era avaliado em relação à sua nova posição (primeira base).
+Total de Entidades Encontradas: 22
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "SCOTT HATTEBERG",
+        "atributos": {
+            "autoavaliacao_ou_status": "Após ser trocado para o Colorado Rockies, Scott Hatteberg se encontrava em um momento de transição, buscando se reconciliar com sua nova posição como receptor, enfrentando a necessidade de reensinar a mão para se adaptar à profissão. Seu retorno à arbitragem salarial após um período de lesão o colocava em uma posição de adaptação e reavaliação."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Apesar de ser um receptor que não conseguia lançar uma bola, Hatteberg sentia que era um jogador valioso, com um contrato que refletia o valor que ele teria, mesmo que não tivesse conseguido uma nova proposta de salário."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Recebeu um telefonema de Billy Beane dizendo que estava muito contente em tê-lo no time e ia jogar como primeira base."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Era um receptor desde os dez anos de idade, mas passava a nova fase da sua carreira, buscando um novo propósito após a aposentadoria como jogador de beisebol."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Scott Hatteberg percebeu que teria de tomar alguma providência. Estava entrando em parafuso. Lembrou-se das duas quadras de tênis de cimento mais adiante, construídas como consolo para os raros prisioneiros dessa comunidade fechada que não jogavam golfe."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Não admitiu, mas Bitsy sente que é verdade. E ela não gostava muito disso. Não que quisesse que os torcedores soubessem quem é seu marido. Ela queria que ele soubesse que os torcedores sabiam quem ele é."
+        }
+    },
+    {
+        "entidade_encontrada": "Ron Washington",
+        "atributos": {
+            "autoavaliacao_ou_status": "Era o treinador de campo interno dos Athletics, com o dom de fazer com que os jogadores quisessem melhorar, garantindo que não passassem vergonha quando a temporada começasse."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Dava para ver que ele não devia estar ali. Estava se debatendo. Não sabia aonde ir, o que nem como fazer. Por dentro devia estar dizendo: ‘Tomara que não aconteça nada na minha área.’ Fazia tudo aquilo que leva um torcedor na arquibancada a dizer: ‘Aquele moleque é um bosta.’ E o que ele sabe?"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Tinha um medo da primeira base, acreditava em um ataque constante de pânico e que a primeira base era algo que não poderia deixar as bolas caírem, nenhuma delas."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Ele se sentia péssimo no começo da temporada, mas não foi dispensado. Ele foi para a primeira base como um rebatedor designado, mas não tinha certeza do que fazer."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Sentiu que já havia visto tudo enquanto estava no Red Sox, mas a situação no Athletics era inusitada para os padrões das grandes ligas, mesmo em campo."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Sentiu que o desempenho inicial era precário, faltava elegância",
+            "autoavaliacao_ou_status_detalhamento": "Inicialmente, Hatteberg sentiu que não estava se adequando ao papel de primeira base, precisando melhorar sua performance."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Se sentia mais à vontade e confiante em sua nova posição na primeira base, mesmo enfrentando desafios como receber bolas em rápida sequência e perder pop flies simples."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "autoavaliacao_ou_status": "Hatty se sentia melhor do que era na curva de Wash, mas o que parecia uma jogada de rotina para ele, era para ele uma oportunidade para se sentir melhor que era."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "autoavaliacao_ou_status": "Sentiu que era naturalmente mais atlético do que a maioria dos caras que a diretoria escondia na primeira base e tinha razão. Começou a relaxar e a querer que rebotessem a bola para ele. Começou a se sentir à vontade, a se sentir ele mesmo."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Gosto de conversar com os caras na primeira base e realmente gosto de conversar."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Admira Jeff Bagwell, mas é bem difícil de ser um jogador de verdade."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Wash o via como um primeiro base acima da média, sendo que Hatteberg era visto como um primeiro base acima da média"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Scott Hatteberg sentia que era um jogador de verdade, mas sua performance na primeira base era questionável. Ele acreditava que era um jogador de ação, como um 'superpegador' e que era uma característica importante do time, mas não se destacava em outras áreas. Sua performance na primeira base não era crucial para o time."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Sua força era mais sutil, menos visível, não tinha medo de ser eliminado por strikes e esse destemor se mostrava na frequência com que rebatia mesmo estando com dois strikes. A razão desse destemor era que raramente sofria uma eliminação. Ele chegava de forma sistemática a contagens bem avançadas e, mesmo assim, apesar de rebater muitas vezes com dois strikes, colocava a bola em jogo com frequência."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Hatteberg era considerado pelo A's como um talento para evitar a eliminação por strikes, agregando sutilmente valor à sua nova posição como primeiro-base."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "O mercado avaliava Scott Hatteberg como se não tivessem valor nenhum em relação às suas características secundárias como rebatedor, mesmo que as mesmas, em especial em sua forma extrema, tenham um grande valor para um ataque no beisebol."
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 2] Repetição: 2 | Data/Hora: 2026-09-15 05:35:09 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia as menções a Scott Hatteberg e adicione um atributo 'autoavaliacao_ou_status' resumindo como ele se via ou como era avaliado em relação à sua nova posição (primeira base).
+Total de Entidades Encontradas: 22
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Após sofrer uma lesão no cotovelo, ele precisou se adaptar a uma nova posição, reensinar a mão e se tornar um receptor. Apesar de ter sido liberado para a arbitragem salarial, ele se sentia desafiado e precisava se adaptar a essa nova posição."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Hatteberg recusou uma proposta de salário de 500 mil dólares por um ano, após ter recebido 950 mil no Red Sox no ano anterior. Ele não tinha ideia da sua alta demanda e procuração pelo Athletics."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Buscou uma oportunidade de jogar, com um contrato que lhe permitisse ter uma base salarial consistente, com possibilidade de renovação, e que lhe desse a chance de se destacar em sua nova posição como primeiro base."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Se via muito feliz em ser jogador de primeira base e se sentia bem em sua nova posição."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Scott Hatteberg se sentia um jogador de verdade, mas era um time de base que buscava uma nova posição. Ele se via como um receptor que precisava se adaptar e se reinventar em uma nova base."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Scott Hatteberg percebeu que teria de tomar alguma providência. Estava entrando em parafuso. Lembrou-se das duas quadras de tênis de cimento mais adiante, construídas como consolo para os raros prisioneiros dessa comunidade fechada que não jogavam golfe. Alguns dias depois do Natal, afivelou o cinto de segurança nas filhas no banco do carro, a esposa ao lado, e pegou seu suporte de bolas para treino, um balde de bolas velhas e uma luva de primeira base novinha em folha. As meninas, ele deixou na caixa de areia ao lado das quadras. Para Bitsy, pediu que lhe batesse bolas rasteiras a partir do suporte. A sra. Scott Hatteberg tinha"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Não admite, mas Bitsy sente que é verdade. E ela não gostava muito disso. Não que quisesse que os torcedores soubessem quem é seu marido. Ela queria que ele soubesse que os torcedores sabiam quem ele é."
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "autoavaliacao_ou_status": "Era o treinador de campo interno que tinha o dom de fazer com que os jogadores quisessem melhorar, garantindo que não passassem vergonha quando a temporada começasse."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Scott Hatteberg demonstrava dificuldade em se adaptar à nova posição de primeira base, mostrando incerteza e questionamento em relação à sua performance. A falta de clareza e o desânimo na sua trajetória o levam a questionar sua própria capacidade."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Buscando confiança e enfrentando desafios na primeira base.  Com medo de cair as bolas e ser avaliado negativamente."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Sentiu que não era um jogador de verdade e não tinha ideia do que fazer, mas também estava desgastado por causa de coisas demais em jogo. Ele foi péssimo, mas não o dispensaram.  Ele foi designado como rebatedor na primeira base, mas a vaga era temporária e a expectativa era que ele se tornasse melhor ao longo da temporada. A sua performance em campo foi vista como um desafio para o time. "
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Inicialmente, Hatteberg se sentiu bem no time, mas a sequência de derrotas o fez questionar a forma de gerenciamento do time e a sua própria posição na equipe. Ele começou a se sentir mais desconfortável ao longo da temporada."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Sentiu que a falta de uma primeira base fixo era um problema e que a função lhe cabia, mas com um início de desempenho que carecia de elegância."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Se sentia mais à vontade na primeira base do que em outros momentos, tanto na recepção quanto no bate-bolas."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "autoavaliacao_ou_status": "Entrava na cabeça do cara porque queria que Wash entrasse na sua cabeça. Seu treinador estava criando outra escala pela qual Hatty podia avaliar seu desempenho, e ele se sentia como um oito na curva de Wash. Subindo."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "autoavaliacao_ou_status": "Sentiu que era naturalmente mais atlético que a maioria dos caras que a diretoria escondia na primeira base, e tinha razão. Começou a relaxar e a querer que rebatessem a bola para ele. Começou a se sentir à vontade, a se sentir ele mesmo."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Se sentia muito conectado à primeira base, gostava de conversar com os outros jogadores e se sentir em seu espaço."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Acredita-se que seja um primeiro-base acima da média, mas se autoavaliou como um mentiroso.",
+            "status": "primeira base acima da média"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Scott Hatteberg era visto como um jogador que se destacava pela sua capacidade de criar corridas de base, mas que, mesmo em sua nova posição, ainda era considerado um jogador de base que se destacava pela sua capacidade de criar corridas de base."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Apesar de ser um jogador mais sutil que Giambi, Hatteberg se via como um jogador consistente e capaz de rebater em momentos de pressão, mesmo com dois strikes. Ele se via como um jogador que tinha um bom aproveitamento em base e que poderia aumentar sua performance com mais regularidade."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Hatteberg era um talento para evitar a eliminação por strikes, agregando sutilmente valor a seus resultados."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "O mercado avaliava Scott Hatteberg como se não tivessem valor nenhum, apesar de ser um rebatedor com características secundárias num rebatedor, em especial em Scott Hatteberg, que tinham um grande valor para um ataque no beisebol."
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 2] Repetição: 3 | Data/Hora: 2026-09-15 05:39:29 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia as menções a Scott Hatteberg e adicione um atributo 'autoavaliacao_ou_status' resumindo como ele se via ou como era avaliado em relação à sua nova posição (primeira base).
+Total de Entidades Encontradas: 20
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Liberado para a arbitragem salarial, buscando reaprender a fazer uma coisa simples que havia feito durante toda a vida — e que agora era sua profissão."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Recusou uma proposta de salário de $500 mil por um ano, depois de ter recebido $950 mil no ano anterior no Red Sox. O atleta não tinha ideia do porquê do interesse do Oakland Athletics em si, que se interessou por ele apenas um minuto após a expiração dos direitos do Rockies sobre ele."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Buscou uma proposta que o colocasse em uma posição de segurança, com base de salário e cláusulas de incentivo."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Após ser anunciado como primeira base, ele sentia que estava em uma nova posição no time, com esperança e expectativa para o futuro."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Hatteberg era um receptor desde os dez anos de idade e tinha sido receptor em sua nova posição como primeiro base, mas sentia que era um jogador que não tinha encontrado o seu lugar no time."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Scott Hatteberg percebeu que teria de tomar alguma providência. Estava entrando em parafuso. Lembrou-se das duas quadras de tênis de cimento mais adiante, construídas como consolo para os raros prisioneiros dessa comunidade fechada que não jogavam golfe. Alguns dias depois do Natal, afivelou o cinto de segurança nas filhas no banco do carro, a esposa ao lado, e pegou seu suporte de bolas para treino, um balde de bolas velhas e uma luva de primeira base novinha em folha. As meninas, ele deixou na caixa de areia ao lado das quadras. Para Bitsy, pediu que lhe batesse bolas rasteiras a partir do suporte. A sra. Scott Hatteberg tinha"
+        }
+    },
+    {
+        "entidade_encontrada": "Ron Washington",
+        "atributos": {
+            "autoavaliacao_ou_status": "Era o treinador de campo interno dos Athletics, tinha o dom de fazer com que os jogadores quisessem melhorar, e se dedicava a garantir que não passassem vergonha quando a temporada começasse."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Scott Hatteberg demonstrava dificuldade em se adaptar à nova posição de primeiro base, se debatendo sobre sua posição e não sabendo aonde ir e como fazer, com o sentimento de que não era o lugar certo para ele."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Buscando confiança para ser colocado na primeira base, mas se sentia pressionado e ansioso em relação a sua nova posição."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "se sentia péssimo no começo, mas não foi dispensado, e acreditava que seria dispensado se tivesse começado mal."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Inicialmente, Hatteberg acreditava que seria colocado como primeira base, mas quando a equipe começou a desandar, ele percebeu que a direção do time era diferente da de outros. Ele se sentia em um novo ambiente, que era diferente do Red Sox."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Inicialmente, sentiu que a sua performance era carente de elegância."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Sentiu que o jogo na primeira base era mais rápido e desafiador que o que já havia experimentado como receptor, com a sensação de perder pop flies simples no ar.  A falta de familiaridade com a base e o ritmo da nova posição o deixavam desconfortável em momentos, mas se sentia mais à vontade à medida que jogava mais na primeira base."
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "autoavaliacao_ou_status": "Sentiu-se naturalmente mais atlético que a maioria dos caras na primeira base e tinha razão. Começou a relaxar e a querer que rebatessem a bola para ele. Começou a se sentir à vontade, a se sentir ele mesmo. Uma das coisas que sempre tinham agradado Hatty como receptor era a chance de conversar com os jogadores dos outros times."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Se sentia confortável em sua nova posição como primeira base, gostava de conversar com os jogadores que chegavam, e era um fã de Jeff Bagwell."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Wash o via como um primeiro base acima da média"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Considerado um jogador que 'faz o que faz' e um jogador reagindo a situações, semelhante a outros jogadores que se destacam em situações de guerra, como Scott Hatteberg"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Ele se via como um jogador que tinha um bom aproveitamento, mas que precisava de tempo para se ajustar à nova posição de primeira base, e que sua força era mais sutil que a de outros jogadores. Ele sentia que não era um jogador de verdade, mas que sua habilidade de rebater em situações de dois strikes e sua habilidade de aumentar o aproveitamento em base com menos jogadas era algo que o diferenciava."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "Hatteberg era uma das primeiras bases da liga que conseguia evitar a eliminação por strikes, o que agregava sutilmente valor à sua nova posição."
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "autoavaliacao_ou_status": "O mercado avaliava Scott Hatteberg como se não tivessem valor nenhum, enquanto ele tinha a percepção de que suas características secundárias num rebatedor, em especial na forma extrema em que se apresentavam em Scott Hatteberg, tinham um grande valor para um ataque no beisebol."
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 3] Repetição: 1 | Data/Hora: 2026-09-15 05:43:29 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia os nomes dos times da Liga Nacional de Futebol Americano (NFL) mencionados no texto e os valores exatos de seus patrocínios.
+Total de Entidades Encontradas: 19
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "Red Sox",
+        "atributos": {
+            "patrocinio": null
+        }
+    },
+    {
+        "entidade_encontrada": "Colorado Rockies",
+        "atributos": {
+            "patrocinio": null
+        }
+    },
+    {
+        "entidade_encontrada": "Rockies",
+        "atributos": {
+            "patrocinio": "500 mil dólares"
+        }
+    },
+    {
+        "entidade_encontrada": "Oakland Athletics",
+        "atributos": {
+            "patrocinio": "Não especificado"
+        }
+    },
+    {
+        "entidade_encontrada": "Rockies",
+        "atributos": {
+            "patrocinio": "Não especificado"
+        }
+    },
+    {
+        "entidade_encontrada": "Athletics",
+        "atributos": {
+            "patrocinio": "Não especificado"
+        }
+    },
+    {
+        "entidade_encontrada": "A’s",
+        "atributos": {
+            "patrocinio": "950 mil dólares"
+        }
+    },
+    {
+        "entidade_encontrada": "Red Sox",
+        "atributos": {
+            "patrocinio": null
+        }
+    },
+    {
+        "entidade_encontrada": "Athletics",
+        "atributos": {
+            "patrocinio": "N/A"
+        }
+    },
+    {
+        "entidade_encontrada": "Athletics",
+        "atributos": {
+            "patrocinio": "Não especificado no texto."
+        }
+    },
+    {
+        "entidade_encontrada": "A's",
+        "atributos": {
+            "player_attributes": "Hatteberg"
+        }
+    },
+    {
+        "entidade_encontrada": "A's",
+        "atributos": {
+            "player_attributes": "Carlos Pena"
+        }
+    },
+    {
+        "entidade_encontrada": "Athletics",
+        "atributos": {
+            "patrocinio": "N/A"
+        }
+    },
+    {
+        "entidade_encontrada": "Blue Jays",
+        "atributos": {
+            "patrocinio": "N/A"
+        }
+    },
+    {
+        "entidade_encontrada": "Red Sox",
+        "atributos": {
+            "patrocinio": "N/A"
+        }
+    },
+    {
+        "entidade_encontrada": "Yankees",
+        "atributos": {
+            "patrocinio": "N/A"
+        }
+    },
+    {
+        "entidade_encontrada": "Phillies",
+        "atributos": {
+            "patrocinio": "N/A"
+        }
+    },
+    {
+        "entidade_encontrada": "A's",
+        "atributos": {}
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {}
+    }
+]
+------------------------------------------------------------
+
+[Prompt 3] Repetição: 2 | Data/Hora: 2026-09-15 05:48:15 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia os nomes dos times da Liga Nacional de Futebol Americano (NFL) mencionados no texto e os valores exatos de seus patrocínios.
+Total de Entidades Encontradas: 20
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "Red Sox",
+        "atributos": {
+            "patrocinio": "sem informação"
+        }
+    },
+    {
+        "entidade_encontrada": "Colorado Rockies",
+        "atributos": {
+            "patrocinio": "sem informação"
+        }
+    },
+    {
+        "entidade_encontrada": "Red Sox",
+        "atributos": {
+            "patrocinio": "500 mil dólares por um ano"
+        }
+    },
+    {
+        "entidade_encontrada": "Oakland Athletics",
+        "atributos": {
+            "patrocinio": "500 mil dólares por um ano"
+        }
+    },
+    {
+        "entidade_encontrada": "Athletics",
+        "atributos": {
+            "patrocinio": null
+        }
+    },
+    {
+        "entidade_encontrada": "Rockies",
+        "atributos": {
+            "patrocinio": "null"
+        }
+    },
+    {
+        "entidade_encontrada": "Boston Red Sox",
+        "atributos": {
+            "patrocinio": "não especificado"
+        }
+    },
+    {
+        "entidade_encontrada": "Red Sox",
+        "atributos": {
+            "patrocinio": "Não especificado"
+        }
+    },
+    {
+        "entidade_encontrada": "Athletics",
+        "atributos": {
+            "patrocinio": "Não mencionado"
+        }
+    },
+    {
+        "entidade_encontrada": "Athletics",
+        "atributos": {
+            "patrocinio": null
+        }
+    },
+    {
+        "entidade_encontrada": "A's",
+        "atributos": {
+            "patrocinio": "Não informado"
+        }
+    },
+    {
+        "entidade_encontrada": "A's",
+        "atributos": {
+            "patrocinio": "Não informado"
+        }
+    },
+    {
+        "entidade_encontrada": "A's",
+        "atributos": {
+            "patrocinio": "Não informado"
+        }
+    },
+    {
+        "entidade_encontrada": "A's",
+        "atributos": {
+            "patrocinio": "Não informado"
+        }
+    },
+    {
+        "entidade_encontrada": "Yankees",
+        "atributos": {
+            "patrocinio": null
+        }
+    },
+    {
+        "entidade_encontrada": "Athletics",
+        "atributos": {
+            "patrocinio": null
+        }
+    },
+    {
+        "entidade_encontrada": "Blue Jays",
+        "atributos": {
+            "patrocinio": null
+        }
+    },
+    {
+        "entidade_encontrada": "Red Sox",
+        "atributos": {
+            "patrocinio": null
+        }
+    },
+    {
+        "entidade_encontrada": "Athletics",
+        "atributos": {
+            "patrocinio": "não informado"
+        }
+    },
+    {
+        "entidade_encontrada": "Red Sox",
+        "atributos": {
+            "patrocinio": "n/a"
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 4] Repetição: 1 | Data/Hora: 2026-09-15 05:52:04 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia os nomes dos jogadores de beisebol citados e atribua a chave 'perfil_rebatedor' preenchida estritamente com 'Estrela' ou 'Analítico/Secundário'.
+Total de Entidades Encontradas: 53
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul DePodesta",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Ron Washington",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Jermaine Dye",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "David Justice",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeremy Giambi",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Rodriguez",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Dye",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Frankie Menechino",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Eric Hiljus",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Tam",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "John Mabry",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Rafael Palmeiro",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Mark Mulder",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Barry Zito",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Cirillo",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Bagwell",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 4] Repetição: 2 | Data/Hora: 2026-09-15 05:58:28 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia os nomes dos jogadores de beisebol citados e atribua a chave 'perfil_rebatedor' preenchida estritamente com 'Estrela' ou 'Analítico/Secundário'.
+Total de Entidades Encontradas: 50
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul DePodesta",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Bitsy",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Ron Washington",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "David Justice",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jermaine Dye",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeremy Giambi",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Rodriguez",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Frankie Menechino",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Eric Hiljus",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Tam",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeremy Giambi",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "John Mabry",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Rafael Palmeiro",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Mark Mulder",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Barry Zito",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Cirillo",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Bagwell",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 4] Repetição: 3 | Data/Hora: 2026-09-15 06:02:50 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia os nomes dos jogadores de beisebol citados e atribua a chave 'perfil_rebatedor' preenchida estritamente com 'Estrela' ou 'Analítico/Secundário'.
+Total de Entidades Encontradas: 55
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul DePodesta",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Bitsy",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Ron Washington",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeremy Giambi",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Jermaine Dye",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "David Justice",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Billy Beane",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Rodriguez",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Dye",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Carlos Pena",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Frankie Menechino",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Eric Hiljus",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Tam",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeremy Giambi",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "John Mabry",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Mark Mulder",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Barry Zito",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Rafael Palmeiro",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Cirillo",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Jeff Bagwell",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Wash",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Jason Giambi",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Paul",
+        "atributos": {
+            "perfil_rebatedor": "Analítico/Secundário"
+        }
+    },
+    {
+        "entidade_encontrada": "Hatty",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "perfil_rebatedor": "Estrela"
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 5] Repetição: 1 | Data/Hora: 2026-09-15 06:07:10 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia as métricas estatísticas ou características secundárias de rebatida valorizadas pela diretoria (como aproveitamento em base ou contagem de strikes), indicando o atributo 'valor_para_o_time'.
+Total de Entidades Encontradas: 12
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "valor_para_o_time",
+        "atributos": {
+            "valor_para_o_time": "1,5 milhão de dólares"
+        }
+    },
+    {
+        "entidade_encontrada": "proposta de outros times",
+        "atributos": {
+            "valor_para_o_time": "desvio de acordo com o mercado"
+        }
+    },
+    {
+        "entidade_encontrada": "tempo escuro",
+        "atributos": {
+            "valor_para_o_time": "quase metade do tempo era escuro"
+        }
+    },
+    {
+        "entidade_encontrada": "quadras de tênis de cimento",
+        "atributos": {
+            "valor_para_o_time": "2 quadras de tênis de cimento"
+        }
+    },
+    {
+        "entidade_encontrada": "altura",
+        "atributos": {
+            "valor_para_o_time": "1,55 metro"
+        }
+    },
+    {
+        "entidade_encontrada": "rebatida",
+        "atributos": {
+            "valor_para_o_time": "acima da média"
+        }
+    },
+    {
+        "entidade_encontrada": "aproveitamento em base",
+        "atributos": {
+            "valor_para_o_time": "três vezes mais importante do que a porcentagem de potência no bastão"
+        }
+    },
+    {
+        "entidade_encontrada": "potência no bastão",
+        "atributos": {
+            "valor_para_o_time": "pouco a ver com o interesse do A’s nele"
+        }
+    },
+    {
+        "entidade_encontrada": "aproveitamento em base",
+        "atributos": {
+            "valor_para_o_time": "25 pontos acima da média da liga",
+            "tipo_de_metrica": "base"
+        }
+    },
+    {
+        "entidade_encontrada": "rebatida com dois strikes",
+        "atributos": {
+            "valor_para_o_time": "diminuir o risco de eliminação por strikes"
+        }
+    },
+    {
+        "entidade_encontrada": "rebatida com dois strikes",
+        "atributos": {
+            "valor_para_o_time": "evitar eliminação por strikes"
+        }
+    },
+    {
+        "entidade_encontrada": "brecha",
+        "atributos": {
+            "valor_para_o_time": "grande valor para um ataque no beisebol"
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 5] Repetição: 2 | Data/Hora: 2026-09-15 06:14:17 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia as métricas estatísticas ou características secundárias de rebatida valorizadas pela diretoria (como aproveitamento em base ou contagem de strikes), indicando o atributo 'valor_para_o_time'.
+Total de Entidades Encontradas: 16
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "tempo escuro",
+        "atributos": {
+            "valor_para_o_time": "quase metade do tempo era escuro"
+        }
+    },
+    {
+        "entidade_encontrada": "altura",
+        "atributos": {
+            "valor_para_o_time": "1,55 metro"
+        }
+    },
+    {
+        "entidade_encontrada": "primeira base titular",
+        "atributos": {
+            "valor_para_o_time": "evitava eliminações"
+        }
+    },
+    {
+        "entidade_encontrada": "arremessador titular",
+        "atributos": {
+            "valor_para_o_time": "evitava eliminações"
+        }
+    },
+    {
+        "entidade_encontrada": "arremessador reserva destro",
+        "atributos": {
+            "valor_para_o_time": "evitava eliminações"
+        }
+    },
+    {
+        "entidade_encontrada": "defensor esquerdo titular",
+        "atributos": {
+            "valor_para_o_time": "evitava eliminações"
+        }
+    },
+    {
+        "entidade_encontrada": "rebatida bruscamente",
+        "atributos": {
+            "valor_para_o_time": "lançamento chegava nele antes de estar preparado"
+        }
+    },
+    {
+        "entidade_encontrada": "pressão",
+        "atributos": {
+            "valor_para_o_time": "não sobe desenfreadamente"
+        }
+    },
+    {
+        "entidade_encontrada": "rebatidas",
+        "atributos": {
+            "valor_para_o_time": "evitava eliminações",
+            "tipo": "rebatidas"
+        }
+    },
+    {
+        "entidade_encontrada": "aproveitamento em base",
+        "atributos": {
+            "valor_para_o_time": "três vezes mais importante que a porcentagem de potência no bastão"
+        }
+    },
+    {
+        "entidade_encontrada": "aproveitamento em base",
+        "atributos": {
+            "valor_para_o_time": "25 pontos acima da média da liga"
+        }
+    },
+    {
+        "entidade_encontrada": "razão entre andadas e strikeouts",
+        "atributos": {
+            "valor_para_o_time": "uma das mais altas na liga.3",
+            "valor_para_o_time_especifico": "e o talento para evitar a eliminação por strikes era mais uma de suas características secundárias que, nos cálculos do A’s, agregavam sutilmente valor a Scott Hatteberg"
+        }
+    },
+    {
+        "entidade_encontrada": "strikes",
+        "atributos": {
+            "valor_para_o_time": "evitava eliminações"
+        }
+    },
+    {
+        "entidade_encontrada": "strikes_at_2_strikes",
+        "atributos": {
+            "valor_para_o_time": "se sofressem dois strikes, ficavam especialmente vulneráveis"
+        }
+    },
+    {
+        "entidade_encontrada": "brecha em Scott Hatteberg",
+        "atributos": {
+            "valor_para_o_time": "grande valor para um ataque no beisebol"
+        }
+    },
+    {
+        "entidade_encontrada": "Scott Hatteberg",
+        "atributos": {
+            "valor_para_o_time": "grande valor para um ataque no beisebol"
+        }
+    }
+]
+------------------------------------------------------------
+
+[Prompt 5] Repetição: 3 | Data/Hora: 2026-09-15 06:19:03 | Modelo: gemma2:2b (Temp: 0.7)
+Texto do Prompt: Extraia as métricas estatísticas ou características secundárias de rebatida valorizadas pela diretoria (como aproveitamento em base ou contagem de strikes), indicando o atributo 'valor_para_o_time'.
+Total de Entidades Encontradas: 8
+Resultados Extraídos:
+[
+    {
+        "entidade_encontrada": "valor do contrato de Scott Hatteberg no Red Sox",
+        "atributos": {
+            "valor_para_o_time": "950 mil dólares"
+        }
+    },
+    {
+        "entidade_encontrada": "providência",
+        "atributos": {
+            "valor_para_o_time": "Scott Hatteberg percebeu que teria de tomar alguma providência",
+            "valor_para_o_time_detalhes": "Estava entrando em parafuso"
+        }
+    },
+    {
+        "entidade_encontrada": "altura",
+        "atributos": {
+            "valor_para_o_time": "1,55 metro"
+        }
+    },
+    {
+        "entidade_encontrada": "rebatida",
+        "atributos": {
+            "valor_para_o_time": "evitava eliminações"
+        }
+    },
+    {
+        "entidade_encontrada": "aproveitamento em base",
+        "atributos": {
+            "valor_para_o_time": "três vezes mais importante que a porcentagem de potência no bastão"
+        }
+    },
+    {
+        "entidade_encontrada": "características secundárias num rebatedor",
+        "atributos": {
+            "valor_para_o_time": "crucial para o sucesso da equipe"
+        }
+    },
+    {
+        "entidade_encontrada": "Aproveitamento em base",
+        "atributos": {
+            "valor_para_o_time": "25 pontos acima da média da liga"
+        }
+    },
+    {
+        "entidade_encontrada": "brechas em Scott Hatteberg",
+        "atributos": {
+            "valor_para_o_time": "grande valor para um ataque no beisebol"
+        }
+    }
+]
+------------------------------------------------------------
